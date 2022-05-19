@@ -1,0 +1,11 @@
+:root {
+    --red-color: #fa1e3c;
+    --orange-color: #ff5733;
+}
+
+.center {
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
